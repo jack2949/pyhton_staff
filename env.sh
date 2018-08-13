@@ -1,0 +1,1 @@
+sudo apt-get install gcc g++ binutils patch autoconf libcurl4-openssl-dev bzip2 flex make gettext pkg-config unzip zlib1g-dev libc6-dev subversion libncurses5-dev gawk sharutils curl libxml-parser-perl python-yaml git ocaml-nox ocaml ocaml-findlib
